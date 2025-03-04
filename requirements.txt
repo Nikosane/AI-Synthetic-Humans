@@ -1,0 +1,7 @@
+python>=3.8
+numpy
+pandas
+pygame  # Optional for visualization
+networkx
+requests
+ollama  # For Deepseek R1 API integration
